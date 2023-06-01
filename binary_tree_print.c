@@ -3,7 +3,8 @@
 #include <string.h>
 #include "binary_trees.h"
 
-/*original code i got it from chatgpt
+/* Original code is from chat gpt
+
 /**
  * print_t - Stores recursively each level in an array of strings
  *
